@@ -199,23 +199,23 @@ Output:
 
 ### Home Dashboard
 
-
+![Home](screenshots/home.png)
 
 ### Blog Generation
 
-![Home](screenshots/home.png)
+![Blog](screenshots/blog.png)
 
 ### Email Generation
 
-*Add screenshot here*
+![Email](screenshots/email.png)
 
 ### Product Description Generation
 
-*Add screenshot here*
+![Product](screenshots/product.png)
 
 ### Instagram Caption Generation
 
-*Add screenshot here*
+![Instagram](screenshots/instagram.png)
 
 ---
 
