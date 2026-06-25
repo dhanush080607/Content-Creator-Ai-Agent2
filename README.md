@@ -199,11 +199,11 @@ Output:
 
 ### Home Dashboard
 
-*Add screenshot here*
+
 
 ### Blog Generation
 
-*Add screenshot here*
+![Home](screenshots/home.png)
 
 ### Email Generation
 
